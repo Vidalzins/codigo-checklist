@@ -4,7 +4,7 @@ import pyautogui
 import time
 
 
-rep = 6
+rep = 8
 
 # Simula um clique do mouse na posição especificada
 pyautogui.click(x=570, y=1050)
